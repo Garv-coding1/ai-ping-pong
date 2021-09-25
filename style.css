@@ -1,0 +1,43 @@
+body
+{
+background-size: cover;
+}
+.header {
+    width:100%;
+    text-align:left;
+}
+
+.header button{
+    float:right;
+    border: 2px rgb(255, 255, 255) ridge;
+}
+
+.header h3{
+    display:inline;
+}
+
+.modal-dialog {
+    width:70%;
+}
+
+b {
+    font-size:20px;
+}
+.modal {
+    text-align: left;
+}
+#footer {
+    width:100%;
+    bottom:0;
+    position: fixed;
+    line-height: 2;
+    text-align: center;
+    background-color: rgb(230, 5, 230);
+    color: rgb(107, 7, 110);
+    font-size:15px;
+    margin-top: 350px;
+}
+
+canvas {
+  margin-top:110px;
+}
